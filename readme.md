@@ -29,8 +29,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://discord.gg/brightcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brightcoder" height="30" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/akhmim-abdelilah/https://www.linkedin.com/in/mouhib-moughtanim-413310198/" rel="nofollow"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/84931728/129571472-7d420fe7-598b-4fd7-88c1-240fae7c35f5.png" data-canonical-src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&amp;download=1&amp;url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&amp;width=24&amp;height=24" style="max-width:100%;" width="30px" align="left"></a>
 
 <br><br>
